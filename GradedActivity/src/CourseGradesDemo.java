@@ -1,5 +1,6 @@
 //Name: Thomas Nguyen
 
+//Hello this is my second commit
 //Driver program for the course grades class. 
 //This class sets the different scores for the lab, pass/fail exam, essay, and final exam.
 //Afterwards, it creates an object of type CourseGrades that holds those scores.
